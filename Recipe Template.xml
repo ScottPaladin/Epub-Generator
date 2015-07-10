@@ -1,0 +1,22 @@
+
+<book>
+    <metadata>
+        <title>TITLE</title>
+        <author>AUTHOR</author>
+        <description><![CDATA[
+		
+		]]></description>
+        <cover>images/SLUG.jpg</cover>
+		<thumb>thumbs/SLUG.jpg</thumb>
+        <slug>SLUG</slug>
+        <storeurl>URL</storeurl>
+        <publisher>Dapper Rat Publishing</publisher>
+    </metadata>
+    <content>
+	<story>content/SLUG.html</story>
+	</content>
+    <backmatter>
+	    <booklink>SLUG.xml</booklink>
+	</backmatter>
+</book>
+
